@@ -44,7 +44,6 @@ const Button = styled.button`
            <Title>{item.title }</Title>
            <Button>Shop Now</Button>
           </Info>
-          
     </Container>
   )
 }
